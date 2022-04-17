@@ -1,9 +1,6 @@
 
 
 ## Cài đặt
-
-Hiện tại chưa up lên store nên các bạn sẽ cần cài đặt thủ công
-
 - B1: **Tải code** về (ấn nút clone - dowload zip)
 - B2: **Giải nén** file zip vừa tải
 - B3: Vào trang quản lý extension của trình duyệt bạn dùng, bật **developer mode** (để có thể cài extension từ các nguồn ngoài web store)
