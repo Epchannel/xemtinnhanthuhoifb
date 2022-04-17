@@ -1,0 +1,22 @@
+body {
+    min-height: 200px;
+    width: 400px;
+    background-color: #fff;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.author {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+}
