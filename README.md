@@ -1,13 +1,4 @@
-# Reveal Deleted FB Messages
 
-Một extension nho nhỏ, giúp mọi người xem lại những tin nhắn đã bị đối phương xóa trong fb messenger.
-
-- [Post hướng dẫn tạo Extension này](https://www.facebook.com/groups/j2team.community/posts/1650103925321721/)
-
-- [Post giới thiệu v2](https://www.facebook.com/groups/j2team.community/posts/1651683238497123/)
-
-
-*Ý tưởng và Tham khảo code từ [KB2A Tool](https://kb2atool.com/)*
 
 ## Cài đặt
 
